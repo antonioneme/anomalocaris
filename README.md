@@ -1,2 +1,2 @@
 # anomalocaris
-This program finds anomalous / outlier genomic regions based on several attributes
+This program in an implementation of compositional -based anomaly detection.
